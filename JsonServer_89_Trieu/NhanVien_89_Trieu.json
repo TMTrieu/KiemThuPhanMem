@@ -1,0 +1,44 @@
+{
+  "NhanVien_89_Trieu": [
+    {
+      "id": "1",
+      "hoTen": "Trần Minh Triều",
+      "tuoi": 25,
+      "chucVu": "Trưởng phòng",
+      "luong": 10000000,
+      "phongBan": "Phòng nhân sự"
+    },
+    {
+      "id": "2",
+      "hoTen": "Trần Thị Tấm",
+      "tuoi": 31,
+      "chucVu": "Trưởng phòng",
+      "luong": 31000000,
+      "phongBan": "Phòng marketing"
+    },
+    {
+      "id": "3",
+      "hoTen": "Lê Văn Kiệt",
+      "tuoi": 28,
+      "chucVu": "Nhân viên",
+      "luong": 12000000,
+      "phongBan": "Phòng kế toán"
+    },
+    {
+      "id": "4",
+      "hoTen": "Phạm Thị Yến Vy",
+      "tuoi": 35,
+      "chucVu": "Giám đốc",
+      "luong": 50000000,
+      "PhongBan": "Ban giám đốc"
+    },
+    {
+      "id": "5",
+      "hoTen": "Đạo Duy Pháp",
+      "tuoi": 22,
+      "chucVu": "Nhân viên",
+      "luong": 5000000,
+      "phongBan": "Phòng kế toán"
+    }
+  ]
+}
