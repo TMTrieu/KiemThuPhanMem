@@ -20,21 +20,36 @@ Kiểm thử API: Postman, Json Server (Node.js)
 
 
 Cấu trúc dự án
+
 ├── Rectangle_89_Trieu/               # Bài tập NUnit – kiểm thử hình chữ nhật
+
 │   ├── Diem_89_Trieu.cs
+
 │   ├── HinhChuNhat_89_Trieu.cs
+
 │   ├── Data_89_Trieu/Data1HCN.csv
+
 │   └── RectangleTester_89_Trieu/     # Unit Test
+
 │
 ├── TestWebUnica/                     # Kiểm thử Website Unica
+
 │   ├── UnitTest1.cs                  # Test login, tìm kiếm, xóa tài khoản
+
 │   └── Packages.config (Selenium)
+
 │
+
 ├── JsonServer_89_Trieu/              # Kiểm thử API bằng Postman
+
 │   ├── NhanVien_89_Trieu.json
+
 │   ├── package.json
+
 │   └── (npm start để chạy json-server)
+
 │
+
 └── README.md
 
 🔍 Các chức năng kiểm thử
